@@ -1,0 +1,14 @@
+h1,
+h2 {
+  display: inline;
+  border: 5px solid rgb(36, 84, 136);
+  background: rgb(186, 207, 255);
+}
+.school {
+  border: 5px solid rgb(36, 84, 136);
+  background: rgb(186, 207, 255);
+}
+.name{
+    border: 5px solid rgb(36, 84, 136);
+  background: rgb(186, 207, 255);
+}
